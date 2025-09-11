@@ -1,4 +1,4 @@
-# gtc-ml-project2-diabetes-prediction
+# Diabetes Prediction
 
 This project predicts the likelihood of diabetes in patients based on medical attributes such as glucose level, BMI, age, and more.  
 
